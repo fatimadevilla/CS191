@@ -1,3 +1,0 @@
-This is the 2nd test file.
-
-This has been edited.
